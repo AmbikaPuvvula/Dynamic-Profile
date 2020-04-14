@@ -1,0 +1,20 @@
+{
+	"profiles":[
+		{
+			"profileInfo":{
+				"name":"Ambika",
+				"email":"ambika_p@apssdc.in",
+				"mobile":"9491297660",
+				"address":"Guntur,Andhra Pradesh"
+			}
+		},
+		{
+			"profileInfo":{
+				"name":"Ammu",
+				"email":"ambika.p@apssdc.in",
+				"mobile":"9618396024",
+				"address":"Guntur,Andhra Pradesh"
+			}
+		}
+	]
+}
