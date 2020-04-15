@@ -6,7 +6,21 @@
 				"email":"ambika_p@apssdc.in",
 				"mobile":"9491297660",
 				"address":"Guntur,Andhra Pradesh"
-			}
+			},
+			"education":[
+				{
+					"degree":"B-Tech (E.C.E)",
+					"institute":"Shri Vishnu Engineering College for Women"
+				},
+				{
+					"degree":"Diplomo (E.C.E)",
+					"institute":"A.A.N.M & V.V.R.S.R Polytechnic"
+				},
+				{
+					"degree":"SSC",
+					"institute":"Sree Rama Krishna High School"
+				}
+			]
 		},
 		{
 			"profileInfo":{
@@ -14,7 +28,21 @@
 				"email":"ambika.p@apssdc.in",
 				"mobile":"9618396024",
 				"address":"Guntur,Andhra Pradesh"
-			}
+			},
+			"education":[
+				{
+					"degree":"B-Tech (E.C.E)",
+					"institute":"Shri Vishnu Engineering College for Women"
+				},
+				{
+					"degree":"Diplomo (E.C.E)",
+					"institute":"A.A.N.M & V.V.R.S.R Polytechnic"
+				},
+				{
+					"degree":"SSC",
+					"institute":"Sree Rama Krishna High School"
+				}
+			]
 		}
 	]
 }
